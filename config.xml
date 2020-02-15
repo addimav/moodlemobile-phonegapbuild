@@ -14,7 +14,7 @@
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
-        CAA
+        Moodle Mobile team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
