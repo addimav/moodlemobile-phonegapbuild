@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "MyCAA"
+        id        = "mycaa-1543319246021"
         versionCode = "38000"
         android-versionCode = "38001"
         ios-CFBundleVersion = "3.8.0.1"
@@ -13,7 +13,7 @@
         MyCAA official app
     </description>
 
-    <author href="http://mycaa.caa.ac.zw" email="helpdesk@caa.ac.zw">
+    <author href="http://mycaa.caa.ac.zw" email="caazimorg@gmail.com">
         CAA
     </author>
 
@@ -49,7 +49,7 @@
     <preference name="webviewbounce"    value="false" />
     <preference name="prerendered-icon" value="true" />
     <preference name="load-url-timeout" value="60000" />
-    <preference name="AppendUserAgent" value="MoodleMobile" />
+    <preference name="AppendUserAgent" value="MyCAA" />
     <preference name="android-minSdkVersion" value="19" />
     <preference name="android-targetSdkVersion" value="28" />
     <preference name="android-installLocation" value="auto" />

@@ -1,7 +1,7 @@
 {
     "app_id": "com.moodle.moodlemobile",
-    "appname": "Learning Factory",
-    "desktopappname": "Learning Factory Desktop",
+    "appname": "MyCAA",
+    "desktopappname": "MyCAA",
     "versioncode": 3800,
     "versionname": "3.8.0",
     "cache_update_frequency_usually": 420000,
@@ -75,8 +75,8 @@
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://www.study.co.zw",
-    "sitename": "http://www.study.co.zw",
+    "siteurl": "http://www.mycaa.caa.ac.zw",
+    "sitename": "MyCAA",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
