@@ -7,14 +7,14 @@
         android-versionCode = "38001"
         ios-CFBundleVersion = "3.8.0.1"
         version   = "3.8.0">
-    <name>Moodle</name>
+    <name>MyCAA</name>
 
     <description>
-        Moodle official app
+        MyCAA
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://www.caa.ac.zw" email="admin@caa.ac.zw">
+        CAA
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
